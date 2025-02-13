@@ -1,6 +1,5 @@
 Here’s the **README.md** formatted version:  
 
-```markdown
 # 🚀 KiteAI Tool (Go Kite AI)  
 
 **KiteAI** is a Node.js-based tool that supports both **Proxy and No Proxy** modes.  
@@ -9,7 +8,7 @@ Here’s the **README.md** formatted version:
 
 ✔️ **Daily Auto Questioning** (Max: 200 Points)  
 ✔️ **Multi-threaded Support**  
-
+✔️ **Auto Ref**
 ---
 
 ## 🖥 Setup Guide  
